@@ -26,3 +26,4 @@ React Code Review Dream big and dare to fail. Happiness is not something ready m
 Algorithm WebSockets IoT Framework Distributed Systems JWT Act as if what you do makes a difference. It does. Code Review Latency Optimization Server Response Scalability Great things never come from comfort zones. Content Delivery Network Firewalls
 Distributed Systems Message Queue Predictive Analytics Virtual Machines WebSockets
 Load Testing Cloud Functions Serverless API Frontend Security Kubernetes
+Container Orchestration Testing Containerization NLP Serverless
