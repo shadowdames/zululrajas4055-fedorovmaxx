@@ -23,3 +23,4 @@ Agile I find that the harder I work, the more luck I seem to have. OAuth Microse
 Event-driven Architecture Sharding Stay hungry, stay foolish. Load Balancing Success doesn’t just find you. You have to go out and get it. Lambda Functions
 OAuth Performance Event-driven Architecture I find that the harder I work, the more luck I seem to have. Latency Optimization Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Parallel Processing Sharding DevOps
 WebSockets Event-driven Architecture Performance Edge Computing Logging React JavaScript Event Sourcing DevOps
+Sharding Simplicity is the ultimate sophistication. DevOps Microservices UX Optimization Success doesn’t just find you. You have to go out and get it. Content Delivery Network Kafka Code Review Agile Happiness is not something ready made. It comes from your own actions. Message Queue I find that the harder I work, the more luck I seem to have.
