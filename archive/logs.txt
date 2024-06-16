@@ -20,3 +20,4 @@ Multi-threading Framework Container Orchestration A/B Testing IoT Parallel Proce
 Cloud Functions Load Balancing Database Indexing NLP Frontend Work hard in silence, let your success be your noise. Event Sourcing Artificial Intelligence
 IoT Latency Optimization CI/CD Edge Computing Act as if what you do makes a difference. It does. Cache Invalidation Stay hungry, stay foolish. Kubernetes
 Logging To be the best, you must be able to handle the worst. Testing Success usually comes to those who are too busy to be looking for it. Message Queue Content Delivery Network Artificial Intelligence WebSockets JWT
+I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Quantum Computing Difficult roads often lead to beautiful destinations. Monitoring To be the best, you must be able to handle the worst. Database Data Pipeline UX Optimization Lambda Functions Multi-threading Firewalls Algorithm Big Data
