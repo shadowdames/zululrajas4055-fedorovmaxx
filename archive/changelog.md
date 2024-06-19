@@ -17,3 +17,4 @@ OAuth Machine Learning Virtual Machines Load Balancing Event-driven Architecture
 Content Delivery Network Containerization Microservices Load Balancing UX Optimization Dream big and dare to fail. Database Indexing
 Zero Downtime Deployment Distributed Systems Parallel Processing Data Science React Containerization
 Load Balancing Great things never come from comfort zones. Blockchain Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Deployment Containerization Multi-threading Quantum Computing Performance WebSockets The only way to do great work is to love what you do. Kafka
+Agile DNS Routing Cloud Functions Event Sourcing Container Orchestration WebSockets JWT Act as if what you do makes a difference. It does. Scalability Event-driven Architecture
