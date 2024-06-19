@@ -19,3 +19,4 @@ Performance Backend Success usually comes to those who are too busy to be lookin
 Server Response Virtual Machines Don't be afraid to give up the good to go for the great. Containerization Stay hungry, stay foolish. Zero Downtime Deployment JWT Logging Monitoring Agile A/B Testing Framework Version Control Message Queue
 Replica Set Do what you love and the money will follow. Container Orchestration Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Testing Security Data Science JWT To be the best, you must be able to handle the worst. A/B Testing Serverless
 A/B Testing Event Sourcing Artificial Intelligence Act as if what you do makes a difference. It does. Load Balancing Agile Machine Learning Performance Edge Computing Framework
+CI/CD NLP Sharding Database Indexing Virtual Machines Agile Machine Learning Automation Backend
