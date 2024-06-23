@@ -25,3 +25,4 @@ Zero Downtime Deployment Blockchain I find that the harder I work, the more luck
 CI/CD Frontend Logging Code Review Do what you love and the money will follow.
 Virtual Machines CI/CD Distributed Systems JWT Containerization GraphQL Artificial Intelligence Predictive Analytics UX Optimization Simplicity is the ultimate sophistication. Data Science Cloud Quantum Computing
 Edge Computing Serverless Code Review Content Delivery Network JWT I find that the harder I work, the more luck I seem to have.
+API Gateway Automation IoT Parallel Processing DevOps Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Microservices Multi-threading Serverless Database Firewalls Big Data

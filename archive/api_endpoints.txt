@@ -32,3 +32,4 @@ If you can dream it, you can do it. Container Orchestration Deployment Work hard
 Frontend IoT Logging Load Balancing Server Response
 GraphQL React Blockchain Containerization API Gateway Logging
 Sharding Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Firewalls Big Data Event Sourcing Blockchain Pull Request Performance API Gateway Testing IoT JavaScript Kubernetes
+Python Load Testing Deployment Act as if what you do makes a difference. It does. UX Optimization OAuth Big Data Code Review Scalability Don't be afraid to give up the good to go for the great. Replica Set
