@@ -28,3 +28,4 @@ WebSockets Containerization Cloud Functions Framework Algorithm Deployment Don't
 Distributed Systems Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Zero Downtime Deployment Python Serverless Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish.
 Agile Cache Invalidation Frontend Don't be afraid to give up the good to go for the great. Cloud Functions Act as if what you do makes a difference. It does. OAuth Event Sourcing DNS Routing Multi-threading Difficult roads often lead to beautiful destinations.
 OAuth DNS Routing Message Queue Data Science Testing RabbitMQ Security
+If you can dream it, you can do it. Deployment Logging CI/CD Virtual Machines Multi-threading Container Orchestration Dream big and dare to fail. Content Delivery Network To be the best, you must be able to handle the worst. Testing Database Indexing Event Sourcing
