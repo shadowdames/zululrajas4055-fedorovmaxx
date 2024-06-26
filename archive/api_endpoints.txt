@@ -31,3 +31,4 @@ Neural Networks Server Response I find that the harder I work, the more luck I s
 If you can dream it, you can do it. Container Orchestration Deployment Work hard in silence, let your success be your noise. Great things never come from comfort zones. Logging Cache Invalidation Performance CI/CD Cloud Functions JWT Containerization Edge Computing
 Frontend IoT Logging Load Balancing Server Response
 GraphQL React Blockchain Containerization API Gateway Logging
+Sharding Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Firewalls Big Data Event Sourcing Blockchain Pull Request Performance API Gateway Testing IoT JavaScript Kubernetes
