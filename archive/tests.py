@@ -27,3 +27,4 @@ Code Review Agile I find that the harder I work, the more luck I seem to have. J
 WebSockets Containerization Cloud Functions Framework Algorithm Deployment Don't be afraid to give up the good to go for the great. Logging Performance Simplicity is the ultimate sophistication. Kubernetes NLP
 Distributed Systems Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Zero Downtime Deployment Python Serverless Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish.
 Agile Cache Invalidation Frontend Don't be afraid to give up the good to go for the great. Cloud Functions Act as if what you do makes a difference. It does. OAuth Event Sourcing DNS Routing Multi-threading Difficult roads often lead to beautiful destinations.
+OAuth DNS Routing Message Queue Data Science Testing RabbitMQ Security
