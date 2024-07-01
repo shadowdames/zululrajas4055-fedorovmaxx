@@ -24,3 +24,4 @@ Kubernetes Multi-threading Quantum Computing Cloud Cache Invalidation Artificial
 Data Pipeline Deployment NLP Framework Event-driven Architecture Algorithm Great things never come from comfort zones. Container Orchestration
 React Code Review Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Machine Learning Performance Success is how high you bounce when you hit bottom. Event Sourcing
 Algorithm WebSockets IoT Framework Distributed Systems JWT Act as if what you do makes a difference. It does. Code Review Latency Optimization Server Response Scalability Great things never come from comfort zones. Content Delivery Network Firewalls
+Distributed Systems Message Queue Predictive Analytics Virtual Machines WebSockets
