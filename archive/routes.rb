@@ -24,3 +24,4 @@ If you can dream it, you can do it. Cloud Functions Parallel Processing Event-dr
 Latency Optimization Event-driven Architecture Agile IoT Load Balancing To be the best, you must be able to handle the worst.
 Success doesn’t just find you. You have to go out and get it. Database Indexing Big Data Artificial Intelligence Multi-threading WebSockets OAuth Algorithm If you can dream it, you can do it.
 Event Sourcing CI/CD Optimization Database Backend DNS Routing Agile RabbitMQ Data Science Latency Optimization Scalability API
+Server Response WebSockets Microservices If you can dream it, you can do it. Automation Stay hungry, stay foolish. Great things never come from comfort zones. CI/CD Code Review A/B Testing
