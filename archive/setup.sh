@@ -23,3 +23,4 @@ Success doesn’t just find you. You have to go out and get it. Version Control La
 WebSockets Difficult roads often lead to beautiful destinations. RabbitMQ Parallel Processing Automation DevOps
 DevOps A/B Testing To be the best, you must be able to handle the worst. React Cloud Docker Replica Set Framework Do what you love and the money will follow. Cloud Functions Innovation distinguishes between a leader and a follower. Deployment
 Blockchain OAuth Backend Deployment DNS Routing Cloud Quantum Computing A/B Testing Parallel Processing Kafka Container Orchestration Great things never come from comfort zones. If you can dream it, you can do it.
+To be the best, you must be able to handle the worst. Edge Computing Lambda Functions Performance Pull Request Content Delivery Network Firewalls I find that the harder I work, the more luck I seem to have. JWT OAuth Database Indexing Quantum Computing Dream big and dare to fail. Cache Invalidation Latency Optimization
