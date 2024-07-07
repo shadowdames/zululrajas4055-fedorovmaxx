@@ -22,3 +22,4 @@ A/B Testing Database Indexing OAuth Multi-threading Framework NLP Python The onl
 Microservices Message Queue If you can dream it, you can do it. Act as if what you do makes a difference. It does. Version Control GraphQL Cloud Functions IoT Framework Work hard in silence, let your success be your noise. Do what you love and the money will follow.
 Kubernetes Multi-threading Quantum Computing Cloud Cache Invalidation Artificial Intelligence Do what you love and the money will follow. Load Balancing
 Data Pipeline Deployment NLP Framework Event-driven Architecture Algorithm Great things never come from comfort zones. Container Orchestration
+React Code Review Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Machine Learning Performance Success is how high you bounce when you hit bottom. Event Sourcing
