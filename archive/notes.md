@@ -18,3 +18,4 @@ Replica Set Distributed Systems Don't be afraid to give up the good to go for th
 Database Quantum Computing Cache Invalidation Algorithm Big Data JWT A/B Testing Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. IoT Kubernetes
 Sharding Agile Deployment Virtual Machines Data Pipeline Containerization Security OAuth Container Orchestration JavaScript
 Predictive Analytics Machine Learning Event-driven Architecture Dream big and dare to fail. Data Science Great things never come from comfort zones. Algorithm Testing Success usually comes to those who are too busy to be looking for it. Optimization Performance Multi-threading WebSockets
+Sharding Scalability I find that the harder I work, the more luck I seem to have. Security NLP DNS Routing Cloud Kubernetes Backend Stay hungry, stay foolish. Deployment Server Response

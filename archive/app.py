@@ -22,3 +22,4 @@ Server Response Firewalls Message Queue Logging Great things never come from com
 Code Review Agile React Docker Serverless Opportunities don't happen. You create them.
 Database Automation Sharding Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. React Virtual Machines Great things never come from comfort zones. Multi-threading CI/CD Performance Kafka Neural Networks
 Zero Downtime Deployment Blockchain I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Framework To be the best, you must be able to handle the worst.
+CI/CD Frontend Logging Code Review Do what you love and the money will follow.
