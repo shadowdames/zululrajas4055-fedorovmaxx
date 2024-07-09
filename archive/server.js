@@ -26,3 +26,4 @@ To be the best, you must be able to handle the worst. Distributed Systems Securi
 Cache Invalidation I find that the harder I work, the more luck I seem to have. Load Balancing Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. GraphQL Data Pipeline Quantum Computing
 JavaScript Database OAuth Security Event Sourcing Success usually comes to those who are too busy to be looking for it.
 DNS Routing Success is not in what you have, but who you are. Dream big and dare to fail. Work hard in silence, let your success be your noise. Security Frontend Testing Optimization CI/CD
+OAuth Great things never come from comfort zones. Event-driven Architecture A/B Testing Load Testing Database Indexing Agile RabbitMQ Security
