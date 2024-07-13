@@ -15,3 +15,4 @@ WebSockets Firewalls JWT Stay hungry, stay foolish. Server Response Opportunitie
 Agile Kubernetes The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Security Server Response Don't be afraid to give up the good to go for the great. Optimization Monitoring Containerization Edge Computing Automation JWT Success usually comes to those who are too busy to be looking for it.
 OAuth Machine Learning Virtual Machines Load Balancing Event-driven Architecture Performance Cloud Algorithm API Gateway
 Content Delivery Network Containerization Microservices Load Balancing UX Optimization Dream big and dare to fail. Database Indexing
+Zero Downtime Deployment Distributed Systems Parallel Processing Data Science React Containerization
