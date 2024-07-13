@@ -25,3 +25,4 @@ Deployment Kubernetes Version Control Data Pipeline Edge Computing Multi-threadi
 Microservices Testing WebSockets Do what you love and the money will follow. Event Sourcing Virtual Machines Containerization API React Content Delivery Network Replica Set Act as if what you do makes a difference. It does. GraphQL The only way to do great work is to love what you do. API Gateway
 Zero Downtime Deployment JWT Security The only way to do great work is to love what you do. Lambda Functions
 NLP Kafka Act as if what you do makes a difference. It does. Data Pipeline Do what you love and the money will follow. Docker API Gateway Edge Computing Python Big Data
+Cache Invalidation Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Latency Optimization Kafka Agile Code Review CI/CD Great things never come from comfort zones. Deployment Automation Scalability React RabbitMQ
