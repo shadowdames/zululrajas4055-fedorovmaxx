@@ -18,3 +18,4 @@ Sharding Cache Invalidation Replica Set Great things never come from comfort zon
 Database Indexing CI/CD Predictive Analytics Load Balancing Microservices Happiness is not something ready made. It comes from your own actions. NLP OAuth
 Data Science Code Review Python Deployment Database Indexing Multi-threading Performance Pull Request Great things never come from comfort zones. Data Pipeline Artificial Intelligence Big Data Machine Learning
 Logging Replica Set API Firewalls Microservices Event-driven Architecture Agile NLP Python Event Sourcing CI/CD
+Great things never come from comfort zones. DNS Routing Cloud Neural Networks I find that the harder I work, the more luck I seem to have. Python

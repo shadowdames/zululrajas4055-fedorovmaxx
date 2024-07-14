@@ -17,3 +17,4 @@ Database Indexing DevOps Latency Optimization Difficult roads often lead to beau
 Replica Set Distributed Systems Don't be afraid to give up the good to go for the great. Server Response Testing Happiness is not something ready made. It comes from your own actions. Cloud Code Review WebSockets
 Database Quantum Computing Cache Invalidation Algorithm Big Data JWT A/B Testing Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. IoT Kubernetes
 Sharding Agile Deployment Virtual Machines Data Pipeline Containerization Security OAuth Container Orchestration JavaScript
+Predictive Analytics Machine Learning Event-driven Architecture Dream big and dare to fail. Data Science Great things never come from comfort zones. Algorithm Testing Success usually comes to those who are too busy to be looking for it. Optimization Performance Multi-threading WebSockets
