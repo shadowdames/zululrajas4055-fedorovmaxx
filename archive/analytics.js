@@ -23,3 +23,4 @@ Cloud OAuth Machine Learning Parallel Processing React Opportunities don't happe
 DNS Routing Cloud Virtual Machines Difficult roads often lead to beautiful destinations. Data Pipeline UX Optimization
 Stay hungry, stay foolish. DevOps Frontend JavaScript Predictive Analytics API Gateway
 Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Big Data Quantum Computing Virtual Machines API API Gateway To be the best, you must be able to handle the worst. Artificial Intelligence OAuth The only way to do great work is to love what you do. Load Balancing Data Science Lambda Functions
+API Gateway NLP Simplicity is the ultimate sophistication. Kubernetes Frontend Work hard in silence, let your success be your noise. DNS Routing Server Response Pull Request Artificial Intelligence RabbitMQ Sharding GraphQL
