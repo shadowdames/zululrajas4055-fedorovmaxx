@@ -24,3 +24,4 @@ API Gateway A/B Testing Quantum Computing Work hard in silence, let your success
 Deployment Kubernetes Version Control Data Pipeline Edge Computing Multi-threading Blockchain Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Database Indexing WebSockets IoT Microservices Lambda Functions
 Microservices Testing WebSockets Do what you love and the money will follow. Event Sourcing Virtual Machines Containerization API React Content Delivery Network Replica Set Act as if what you do makes a difference. It does. GraphQL The only way to do great work is to love what you do. API Gateway
 Zero Downtime Deployment JWT Security The only way to do great work is to love what you do. Lambda Functions
+NLP Kafka Act as if what you do makes a difference. It does. Data Pipeline Do what you love and the money will follow. Docker API Gateway Edge Computing Python Big Data

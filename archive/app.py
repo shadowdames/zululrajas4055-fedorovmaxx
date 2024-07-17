@@ -20,3 +20,4 @@ Security Distributed Systems Logging Act as if what you do makes a difference. I
 A/B Testing Machine Learning GraphQL Frontend Dream big and dare to fail. Do what you love and the money will follow.
 Server Response Firewalls Message Queue Logging Great things never come from comfort zones. Cloud API
 Code Review Agile React Docker Serverless Opportunities don't happen. You create them.
+Database Automation Sharding Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. React Virtual Machines Great things never come from comfort zones. Multi-threading CI/CD Performance Kafka Neural Networks
