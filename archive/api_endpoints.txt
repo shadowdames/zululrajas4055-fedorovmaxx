@@ -26,3 +26,4 @@ Success doesn’t just find you. You have to go out and get it. Neural Networks Op
 Monitoring Agile RabbitMQ API Gateway Parallel Processing Do what you love and the money will follow. To be the best, you must be able to handle the worst. Replica Set GraphQL UX Optimization Kafka
 To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. NLP Success doesn’t just find you. You have to go out and get it. Automation UX Optimization Blockchain
 Don't be afraid to give up the good to go for the great. Security Work hard in silence, let your success be your noise. Do what you love and the money will follow. Quantum Computing I find that the harder I work, the more luck I seem to have. Lambda Functions Serverless Python Load Balancing CI/CD Big Data Agile Latency Optimization Microservices
+Optimization Multi-threading Blockchain Agile JavaScript NLP
