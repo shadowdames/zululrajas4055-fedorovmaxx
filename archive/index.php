@@ -20,3 +20,4 @@ API Gateway Deployment Testing Backend Artificial Intelligence Algorithm Fronten
 Monitoring UX Optimization Kubernetes RabbitMQ Zero Downtime Deployment
 A/B Testing Database Indexing OAuth Multi-threading Framework NLP Python The only way to do great work is to love what you do. API
 Microservices Message Queue If you can dream it, you can do it. Act as if what you do makes a difference. It does. Version Control GraphQL Cloud Functions IoT Framework Work hard in silence, let your success be your noise. Do what you love and the money will follow.
+Kubernetes Multi-threading Quantum Computing Cloud Cache Invalidation Artificial Intelligence Do what you love and the money will follow. Load Balancing
