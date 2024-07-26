@@ -23,3 +23,4 @@ Microservices Serverless API Event-driven Architecture Data Pipeline
 If you can dream it, you can do it. Cloud Functions Parallel Processing Event-driven Architecture UX Optimization IoT Firewalls Optimization Frontend Data Pipeline
 Latency Optimization Event-driven Architecture Agile IoT Load Balancing To be the best, you must be able to handle the worst.
 Success doesn’t just find you. You have to go out and get it. Database Indexing Big Data Artificial Intelligence Multi-threading WebSockets OAuth Algorithm If you can dream it, you can do it.
+Event Sourcing CI/CD Optimization Database Backend DNS Routing Agile RabbitMQ Data Science Latency Optimization Scalability API

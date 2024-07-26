@@ -22,3 +22,4 @@ Deployment JavaScript Container Orchestration NLP GraphQL Difficult roads often 
 Agile I find that the harder I work, the more luck I seem to have. OAuth Microservices Docker Cloud Functions Backend To be the best, you must be able to handle the worst. Latency Optimization DNS Routing Great things never come from comfort zones.
 Event-driven Architecture Sharding Stay hungry, stay foolish. Load Balancing Success doesn’t just find you. You have to go out and get it. Lambda Functions
 OAuth Performance Event-driven Architecture I find that the harder I work, the more luck I seem to have. Latency Optimization Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Parallel Processing Sharding DevOps
+WebSockets Event-driven Architecture Performance Edge Computing Logging React JavaScript Event Sourcing DevOps
