@@ -19,3 +19,4 @@ Microservices Parallel Processing Performance Algorithm Great things never come 
 API Gateway Deployment Testing Backend Artificial Intelligence Algorithm Frontend Server Response Cloud Message Queue Content Delivery Network Machine Learning Pull Request Database Indexing Lambda Functions
 Monitoring UX Optimization Kubernetes RabbitMQ Zero Downtime Deployment
 A/B Testing Database Indexing OAuth Multi-threading Framework NLP Python The only way to do great work is to love what you do. API
+Microservices Message Queue If you can dream it, you can do it. Act as if what you do makes a difference. It does. Version Control GraphQL Cloud Functions IoT Framework Work hard in silence, let your success be your noise. Do what you love and the money will follow.
