@@ -19,3 +19,4 @@ DevOps Opportunities don't happen. You create them. Serverless Virtual Machines 
 Security Distributed Systems Logging Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Cloud Functions Container Orchestration Event-driven Architecture NLP To be the best, you must be able to handle the worst. Kubernetes Innovation distinguishes between a leader and a follower. Docker
 A/B Testing Machine Learning GraphQL Frontend Dream big and dare to fail. Do what you love and the money will follow.
 Server Response Firewalls Message Queue Logging Great things never come from comfort zones. Cloud API
+Code Review Agile React Docker Serverless Opportunities don't happen. You create them.
