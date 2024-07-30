@@ -18,3 +18,4 @@ Happiness is not something ready made. It comes from your own actions. Latency O
 CI/CD API Gateway Performance OAuth Cloud Message Queue Algorithm Lambda Functions Quantum Computing Cache Invalidation Security Work hard in silence, let your success be your noise.
 Success usually comes to those who are too busy to be looking for it. A/B Testing Algorithm Microservices DevOps Testing Distributed Systems
 Content Delivery Network Docker Sharding To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Load Testing Serverless Event Sourcing Success doesn’t just find you. You have to go out and get it.
+API A/B Testing Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Scalability Deployment Machine Learning

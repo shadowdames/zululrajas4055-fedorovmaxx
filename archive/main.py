@@ -17,3 +17,4 @@ Performance WebSockets Great things never come from comfort zones. Framework NLP
 Sharding Cache Invalidation Replica Set Great things never come from comfort zones. API Gateway Firewalls IoT Kafka JavaScript Cloud Big Data Distributed Systems Multi-threading
 Database Indexing CI/CD Predictive Analytics Load Balancing Microservices Happiness is not something ready made. It comes from your own actions. NLP OAuth
 Data Science Code Review Python Deployment Database Indexing Multi-threading Performance Pull Request Great things never come from comfort zones. Data Pipeline Artificial Intelligence Big Data Machine Learning
+Logging Replica Set API Firewalls Microservices Event-driven Architecture Agile NLP Python Event Sourcing CI/CD

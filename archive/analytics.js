@@ -21,3 +21,4 @@ Simplicity is the ultimate sophistication. Version Control API Virtual Machines 
 Container Orchestration Load Testing Cache Invalidation Virtual Machines RabbitMQ Neural Networks Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Parallel Processing Big Data Opportunities don't happen. You create them. Logging
 Cloud OAuth Machine Learning Parallel Processing React Opportunities don't happen. You create them. Lambda Functions Neural Networks Pull Request Difficult roads often lead to beautiful destinations. Distributed Systems Automation Container Orchestration
 DNS Routing Cloud Virtual Machines Difficult roads often lead to beautiful destinations. Data Pipeline UX Optimization
+Stay hungry, stay foolish. DevOps Frontend JavaScript Predictive Analytics API Gateway
