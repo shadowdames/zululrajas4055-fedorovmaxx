@@ -23,3 +23,4 @@ Success is not in what you have, but who you are. Edge Computing Cache Invalidat
 Agile Great things never come from comfort zones. Big Data Success is how high you bounce when you hit bottom. CI/CD Event Sourcing Lambda Functions
 Cache Invalidation GraphQL Predictive Analytics Security Automation CI/CD React Python Lambda Functions Multi-threading Kubernetes Testing To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. JWT
 To be the best, you must be able to handle the worst. Distributed Systems Security GraphQL Python Kubernetes Data Science Event-driven Architecture Database Indexing Frontend Data Pipeline Innovation distinguishes between a leader and a follower.
+Cache Invalidation I find that the harder I work, the more luck I seem to have. Load Balancing Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. GraphQL Data Pipeline Quantum Computing
