@@ -15,3 +15,4 @@ Serverless Do what you love and the money will follow. Event-driven Architecture
 Microservices To be the best, you must be able to handle the worst. Docker Automation Happiness is not something ready made. It comes from your own actions. Cloud Functions Edge Computing Database Indexing
 Performance WebSockets Great things never come from comfort zones. Framework NLP To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. OAuth
 Sharding Cache Invalidation Replica Set Great things never come from comfort zones. API Gateway Firewalls IoT Kafka JavaScript Cloud Big Data Distributed Systems Multi-threading
+Database Indexing CI/CD Predictive Analytics Load Balancing Microservices Happiness is not something ready made. It comes from your own actions. NLP OAuth

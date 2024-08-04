@@ -13,3 +13,4 @@ Database Performance If you can dream it, you can do it. Neural Networks Event-d
 Artificial Intelligence Act as if what you do makes a difference. It does. Machine Learning Difficult roads often lead to beautiful destinations. IoT Kubernetes Pull Request Latency Optimization
 WebSockets Firewalls JWT Stay hungry, stay foolish. Server Response Opportunities don't happen. You create them. DNS Routing
 Agile Kubernetes The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Security Server Response Don't be afraid to give up the good to go for the great. Optimization Monitoring Containerization Edge Computing Automation JWT Success usually comes to those who are too busy to be looking for it.
+OAuth Machine Learning Virtual Machines Load Balancing Event-driven Architecture Performance Cloud Algorithm API Gateway

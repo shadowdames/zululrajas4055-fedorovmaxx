@@ -14,3 +14,4 @@ Testing GraphQL Kubernetes CI/CD Logging Data Pipeline Artificial Intelligence L
 Python Lambda Functions Cloud Security Automation Virtual Machines Load Balancing Database JWT Cache Invalidation CI/CD Data Science Quantum Computing
 Simplicity is the ultimate sophistication. Predictive Analytics Logging Distributed Systems Load Testing
 Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Load Balancing Cloud Functions Kafka JWT Code Review Neural Networks Replica Set Backend
+To be the best, you must be able to handle the worst. Content Delivery Network NLP Containerization API Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. DevOps Security
