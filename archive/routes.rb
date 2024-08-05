@@ -21,3 +21,4 @@ Stay hungry, stay foolish. Performance Do what you love and the money will follo
 Performance Stay hungry, stay foolish. Testing Load Balancing Containerization
 Microservices Serverless API Event-driven Architecture Data Pipeline
 If you can dream it, you can do it. Cloud Functions Parallel Processing Event-driven Architecture UX Optimization IoT Firewalls Optimization Frontend Data Pipeline
+Latency Optimization Event-driven Architecture Agile IoT Load Balancing To be the best, you must be able to handle the worst.

@@ -14,3 +14,4 @@ Success doesn’t just find you. You have to go out and get it. Deployment To be t
 Serverless Do what you love and the money will follow. Event-driven Architecture Docker Parallel Processing Data Pipeline
 Microservices To be the best, you must be able to handle the worst. Docker Automation Happiness is not something ready made. It comes from your own actions. Cloud Functions Edge Computing Database Indexing
 Performance WebSockets Great things never come from comfort zones. Framework NLP To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. OAuth
+Sharding Cache Invalidation Replica Set Great things never come from comfort zones. API Gateway Firewalls IoT Kafka JavaScript Cloud Big Data Distributed Systems Multi-threading
