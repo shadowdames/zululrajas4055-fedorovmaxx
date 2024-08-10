@@ -20,3 +20,4 @@ NLP Optimization Event Sourcing The only way to do great work is to love what yo
 Stay hungry, stay foolish. Performance Do what you love and the money will follow. Pull Request The only way to do great work is to love what you do. Python Database Indexing Success is how high you bounce when you hit bottom. Containerization
 Performance Stay hungry, stay foolish. Testing Load Balancing Containerization
 Microservices Serverless API Event-driven Architecture Data Pipeline
+If you can dream it, you can do it. Cloud Functions Parallel Processing Event-driven Architecture UX Optimization IoT Firewalls Optimization Frontend Data Pipeline
