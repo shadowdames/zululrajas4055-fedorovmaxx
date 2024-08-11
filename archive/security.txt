@@ -17,3 +17,4 @@ Logging Algorithm Sharding OAuth If you can dream it, you can do it. Security
 Predictive Analytics Database Frontend React Don't be afraid to give up the good to go for the great.
 Dream big and dare to fail. JWT DevOps JavaScript Sharding Cache Invalidation Code Review Data Science Work hard in silence, let your success be your noise. API Load Balancing Innovation distinguishes between a leader and a follower. A/B Testing Database
 Agile NLP Replica Set Zero Downtime Deployment Data Pipeline Code Review Cloud Functions Do what you love and the money will follow. If you can dream it, you can do it. Automation Cloud
+Quantum Computing Don't be afraid to give up the good to go for the great. Backend Event Sourcing Cloud OAuth Data Pipeline JavaScript A/B Testing Cloud Functions Replica Set If you can dream it, you can do it. Automation GraphQL Dream big and dare to fail.
