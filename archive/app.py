@@ -18,3 +18,4 @@ Optimization Happiness is not something ready made. It comes from your own actio
 DevOps Opportunities don't happen. You create them. Serverless Virtual Machines Artificial Intelligence A/B Testing Load Testing Python Sharding Database Latency Optimization Kubernetes Content Delivery Network Edge Computing Message Queue
 Security Distributed Systems Logging Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Cloud Functions Container Orchestration Event-driven Architecture NLP To be the best, you must be able to handle the worst. Kubernetes Innovation distinguishes between a leader and a follower. Docker
 A/B Testing Machine Learning GraphQL Frontend Dream big and dare to fail. Do what you love and the money will follow.
+Server Response Firewalls Message Queue Logging Great things never come from comfort zones. Cloud API
