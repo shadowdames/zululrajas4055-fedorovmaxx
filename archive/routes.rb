@@ -19,3 +19,4 @@ Work hard in silence, let your success be your noise. Data Pipeline Cache Invali
 NLP Optimization Event Sourcing The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Data Pipeline Work hard in silence, let your success be your noise. Automation Scalability UX Optimization Database Load Testing Zero Downtime Deployment I find that the harder I work, the more luck I seem to have.
 Stay hungry, stay foolish. Performance Do what you love and the money will follow. Pull Request The only way to do great work is to love what you do. Python Database Indexing Success is how high you bounce when you hit bottom. Containerization
 Performance Stay hungry, stay foolish. Testing Load Balancing Containerization
+Microservices Serverless API Event-driven Architecture Data Pipeline
