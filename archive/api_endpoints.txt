@@ -20,3 +20,4 @@ Database Indexing Success doesn’t just find you. You have to go out and get it. 
 Performance Great things never come from comfort zones. Quantum Computing OAuth Microservices Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Kafka Virtual Machines Docker Big Data CI/CD
 Container Orchestration Success is not in what you have, but who you are. Optimization Load Balancing Great things never come from comfort zones. Scalability Firewalls
 Sharding Data Pipeline Microservices Server Response Load Balancing
+If you can dream it, you can do it. API Gateway Message Queue Firewalls OAuth DNS Routing WebSockets Predictive Analytics Pull Request Do what you love and the money will follow. Act as if what you do makes a difference. It does. Content Delivery Network Sharding
