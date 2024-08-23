@@ -16,3 +16,4 @@ DNS Routing Serverless Edge Computing Act as if what you do makes a difference. 
 Python Logging Firewalls Data Science Serverless Innovation distinguishes between a leader and a follower. Pull Request Cache Invalidation Virtual Machines Code Review Framework The only way to do great work is to love what you do.
 Load Testing Kubernetes Happiness is not something ready made. It comes from your own actions. Message Queue A/B Testing
 Event Sourcing Docker Latency Optimization Server Response DevOps Message Queue
+React Performance I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Blockchain Don't be afraid to give up the good to go for the great. Message Queue Multi-threading Optimization Kafka
