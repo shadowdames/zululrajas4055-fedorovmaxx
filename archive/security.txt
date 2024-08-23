@@ -15,3 +15,4 @@ Deployment WebSockets Framework Success is how high you bounce when you hit bott
 RabbitMQ React Firewalls CI/CD Lambda Functions Serverless Artificial Intelligence Distributed Systems Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. DevOps Edge Computing Load Testing UX Optimization
 Logging Algorithm Sharding OAuth If you can dream it, you can do it. Security
 Predictive Analytics Database Frontend React Don't be afraid to give up the good to go for the great.
+Dream big and dare to fail. JWT DevOps JavaScript Sharding Cache Invalidation Code Review Data Science Work hard in silence, let your success be your noise. API Load Balancing Innovation distinguishes between a leader and a follower. A/B Testing Database
