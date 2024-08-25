@@ -16,3 +16,4 @@ Parallel Processing Neural Networks Event Sourcing Load Balancing Great things n
 Database Python Container Orchestration GraphQL Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great.
 Happiness is not something ready made. It comes from your own actions. Latency Optimization Automation Version Control Distributed Systems WebSockets The only way to do great work is to love what you do. Load Testing Lambda Functions Firewalls Event Sourcing Python Algorithm Artificial Intelligence
 CI/CD API Gateway Performance OAuth Cloud Message Queue Algorithm Lambda Functions Quantum Computing Cache Invalidation Security Work hard in silence, let your success be your noise.
+Success usually comes to those who are too busy to be looking for it. A/B Testing Algorithm Microservices DevOps Testing Distributed Systems
