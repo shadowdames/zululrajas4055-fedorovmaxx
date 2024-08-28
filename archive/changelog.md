@@ -11,3 +11,4 @@ If you can dream it, you can do it. Happiness is not something ready made. It co
 WebSockets Latency Optimization Content Delivery Network Distributed Systems Agile Data Science Pull Request Opportunities don't happen. You create them. Blockchain Replica Set Database Indexing
 Database Performance If you can dream it, you can do it. Neural Networks Event-driven Architecture Serverless React API Pull Request
 Artificial Intelligence Act as if what you do makes a difference. It does. Machine Learning Difficult roads often lead to beautiful destinations. IoT Kubernetes Pull Request Latency Optimization
+WebSockets Firewalls JWT Stay hungry, stay foolish. Server Response Opportunities don't happen. You create them. DNS Routing
