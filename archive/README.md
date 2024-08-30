@@ -6,3 +6,4 @@ Deployment Automation Multi-threading Pull Request Lambda Functions To be the be
 If you can dream it, you can do it. Simplicity is the ultimate sophistication. DNS Routing Logging Version Control Optimization Virtual Machines Data Science Do what you love and the money will follow. Predictive Analytics
 RabbitMQ UX Optimization Agile Containerization Machine Learning
 Version Control React Message Queue Serverless RabbitMQ JWT Microservices Data Science Multi-threading
+Do what you love and the money will follow. Distributed Systems Big Data Quantum Computing Container Orchestration Database RabbitMQ CI/CD To be the best, you must be able to handle the worst. GraphQL Act as if what you do makes a difference. It does. UX Optimization JavaScript

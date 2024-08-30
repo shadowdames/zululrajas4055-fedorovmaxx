@@ -21,3 +21,4 @@ Success usually comes to those who are too busy to be looking for it. Database I
 Testing Predictive Analytics Great things never come from comfort zones. Parallel Processing Do what you love and the money will follow. Dream big and dare to fail.
 Optimization Big Data Stay hungry, stay foolish. WebSockets Cloud Functions Agile Kafka Sharding CI/CD A/B Testing Event-driven Architecture Security Predictive Analytics Framework
 Lambda Functions Server Response Serverless UX Optimization API DNS Routing Do what you love and the money will follow.
+Backend I find that the harder I work, the more luck I seem to have. Code Review API Stay hungry, stay foolish. Python Simplicity is the ultimate sophistication. Do what you love and the money will follow. Testing Opportunities don't happen. You create them. Quantum Computing Difficult roads often lead to beautiful destinations. Firewalls Data Science
