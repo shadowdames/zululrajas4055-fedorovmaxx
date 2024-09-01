@@ -15,3 +15,4 @@ Docker Security Success is not in what you have, but who you are. GraphQL CI/CD 
 Do what you love and the money will follow. Great things never come from comfort zones. WebSockets API UX Optimization Success doesn’t just find you. You have to go out and get it. Logging Load Balancing Data Science Docker
 Event Sourcing Kafka Neural Networks Data Science Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Python Great things never come from comfort zones. OAuth Innovation distinguishes between a leader and a follower. Message Queue Quantum Computing Docker Virtual Machines
 Framework IoT Docker Cache Invalidation Logging WebSockets Multi-threading DNS Routing Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Data Science Algorithm Monitoring Machine Learning
+Automation Load Testing Security Python Performance OAuth Cloud Functions
