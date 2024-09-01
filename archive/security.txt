@@ -13,3 +13,4 @@ To be the best, you must be able to handle the worst. API A/B Testing Sharding T
 Kafka GraphQL API Version Control Security Framework Neural Networks Content Delivery Network Do what you love and the money will follow. Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Pull Request
 Deployment WebSockets Framework Success is how high you bounce when you hit bottom. Virtual Machines Container Orchestration Artificial Intelligence Microservices Latency Optimization IoT Data Pipeline Quantum Computing
 RabbitMQ React Firewalls CI/CD Lambda Functions Serverless Artificial Intelligence Distributed Systems Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. DevOps Edge Computing Load Testing UX Optimization
+Logging Algorithm Sharding OAuth If you can dream it, you can do it. Security
