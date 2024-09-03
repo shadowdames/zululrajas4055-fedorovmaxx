@@ -14,3 +14,4 @@ JavaScript Logging UX Optimization Latency Optimization Neural Networks The only
 Neural Networks Zero Downtime Deployment Firewalls Sharding Success usually comes to those who are too busy to be looking for it. Docker Server Response Logging The only way to do great work is to love what you do. Quantum Computing NLP
 Parallel Processing Neural Networks Event Sourcing Load Balancing Great things never come from comfort zones. Content Delivery Network Container Orchestration Performance Agile
 Database Python Container Orchestration GraphQL Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great.
+Happiness is not something ready made. It comes from your own actions. Latency Optimization Automation Version Control Distributed Systems WebSockets The only way to do great work is to love what you do. Load Testing Lambda Functions Firewalls Event Sourcing Python Algorithm Artificial Intelligence
