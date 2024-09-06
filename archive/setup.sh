@@ -13,3 +13,4 @@ DevOps Python Cloud Opportunities don't happen. You create them. Distributed Sys
 JavaScript Logging UX Optimization Latency Optimization Neural Networks The only way to do great work is to love what you do. Replica Set Microservices Kafka Zero Downtime Deployment DevOps Virtual Machines RabbitMQ API
 Neural Networks Zero Downtime Deployment Firewalls Sharding Success usually comes to those who are too busy to be looking for it. Docker Server Response Logging The only way to do great work is to love what you do. Quantum Computing NLP
 Parallel Processing Neural Networks Event Sourcing Load Balancing Great things never come from comfort zones. Content Delivery Network Container Orchestration Performance Agile
+Database Python Container Orchestration GraphQL Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great.

@@ -20,3 +20,4 @@ Big Data The only way to do great work is to love what you do. Don't be afraid t
 Success usually comes to those who are too busy to be looking for it. Database Indexing Virtual Machines Great things never come from comfort zones. CI/CD Sharding Pull Request Security
 Testing Predictive Analytics Great things never come from comfort zones. Parallel Processing Do what you love and the money will follow. Dream big and dare to fail.
 Optimization Big Data Stay hungry, stay foolish. WebSockets Cloud Functions Agile Kafka Sharding CI/CD A/B Testing Event-driven Architecture Security Predictive Analytics Framework
+Lambda Functions Server Response Serverless UX Optimization API DNS Routing Do what you love and the money will follow.
