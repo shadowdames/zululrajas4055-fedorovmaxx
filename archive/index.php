@@ -16,3 +16,4 @@ Work hard in silence, let your success be your noise. IoT Cloud Don't be afraid 
 Multi-threading Event Sourcing React Containerization Edge Computing API Gateway Backend Latency Optimization
 Database Indexing Data Science Kafka Cache Invalidation Backend Quantum Computing Content Delivery Network Predictive Analytics Automation GraphQL Success doesn’t just find you. You have to go out and get it.
 Microservices Parallel Processing Performance Algorithm Great things never come from comfort zones. Lambda Functions Event Sourcing Logging Security Database Agile Success doesn’t just find you. You have to go out and get it. Blockchain
+API Gateway Deployment Testing Backend Artificial Intelligence Algorithm Frontend Server Response Cloud Message Queue Content Delivery Network Machine Learning Pull Request Database Indexing Lambda Functions
