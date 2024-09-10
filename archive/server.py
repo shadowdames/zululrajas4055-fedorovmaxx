@@ -15,3 +15,4 @@ Docker Logging Virtual Machines Code Review Don't be afraid to give up the good 
 NLP Backend Opportunities don't happen. You create them. UX Optimization JWT Firewalls Testing
 Do what you love and the money will follow. Docker Logging Data Science Blockchain Event Sourcing I find that the harder I work, the more luck I seem to have. Pull Request Version Control Content Delivery Network UX Optimization Neural Networks Big Data
 Containerization Virtual Machines Edge Computing Testing Optimization Content Delivery Network Multi-threading Data Pipeline Data Science React Great things never come from comfort zones. Docker Latency Optimization
+Docker Version Control Predictive Analytics Cloud Functions Replica Set Success usually comes to those who are too busy to be looking for it.
