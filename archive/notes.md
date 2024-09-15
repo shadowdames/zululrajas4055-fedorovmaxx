@@ -11,3 +11,4 @@ Big Data DevOps Monitoring Edge Computing Work hard in silence, let your success
 Success usually comes to those who are too busy to be looking for it. JavaScript UX Optimization Serverless Cloud
 Happiness is not something ready made. It comes from your own actions. Edge Computing Logging Framework Data Pipeline The only way to do great work is to love what you do.
 Database A/B Testing JWT Agile Sharding Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it.
+React Kafka Performance Database Indexing Cache Invalidation Frontend IoT Act as if what you do makes a difference. It does. DevOps JWT Scalability Don't be afraid to give up the good to go for the great.

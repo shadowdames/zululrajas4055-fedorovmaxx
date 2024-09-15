@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. Edge Computing Kuberne
 Big Data Cache Invalidation Predictive Analytics Message Queue Artificial Intelligence Content Delivery Network Do what you love and the money will follow. Version Control Blockchain Opportunities don't happen. You create them.
 If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Event-driven Architecture Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Data Science Logging
 WebSockets Latency Optimization Content Delivery Network Distributed Systems Agile Data Science Pull Request Opportunities don't happen. You create them. Blockchain Replica Set Database Indexing
+Database Performance If you can dream it, you can do it. Neural Networks Event-driven Architecture Serverless React API Pull Request
