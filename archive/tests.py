@@ -18,3 +18,4 @@ Deployment To be the best, you must be able to handle the worst. DevOps OAuth Su
 Difficult roads often lead to beautiful destinations. NLP Frontend Cache Invalidation Server Response Content Delivery Network Cloud Functions Framework
 Big Data The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Code Review Zero Downtime Deployment If you can dream it, you can do it. Great things never come from comfort zones. Logging Kubernetes Cloud Optimization GraphQL
 Success usually comes to those who are too busy to be looking for it. Database Indexing Virtual Machines Great things never come from comfort zones. CI/CD Sharding Pull Request Security
+Testing Predictive Analytics Great things never come from comfort zones. Parallel Processing Do what you love and the money will follow. Dream big and dare to fail.
