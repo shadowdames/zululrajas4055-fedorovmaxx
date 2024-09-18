@@ -12,3 +12,4 @@ Monitoring Data Science Big Data Success doesn’t just find you. You have to go o
 OAuth Big Data Database Success is not in what you have, but who you are. Neural Networks CI/CD Security Simplicity is the ultimate sophistication. Predictive Analytics Database Indexing Stay hungry, stay foolish. Monitoring If you can dream it, you can do it. JWT
 NLP Predictive Analytics Docker Microservices Don't be afraid to give up the good to go for the great. Latency Optimization Logging CI/CD I find that the harder I work, the more luck I seem to have. IoT WebSockets API Gateway GraphQL OAuth Data Science
 Neural Networks Act as if what you do makes a difference. It does. DNS Routing Artificial Intelligence OAuth A/B Testing
+Event Sourcing Event-driven Architecture Containerization RabbitMQ Difficult roads often lead to beautiful destinations. Load Testing If you can dream it, you can do it. Automation JavaScript Firewalls

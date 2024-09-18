@@ -13,3 +13,4 @@ React Sharding Distributed Systems Message Queue Server Response API Gateway Rab
 Quantum Computing Backend Pull Request Server Response Database WebSockets
 Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Load Balancing Event-driven Architecture GraphQL Great things never come from comfort zones. Firewalls Zero Downtime Deployment Parallel Processing API Gateway
 Pull Request Deployment Data Pipeline A/B Testing Agile Distributed Systems Neural Networks Big Data Version Control Automation JWT RabbitMQ
+API Gateway Stay hungry, stay foolish. React Backend Scalability DevOps API GraphQL Database Indexing
