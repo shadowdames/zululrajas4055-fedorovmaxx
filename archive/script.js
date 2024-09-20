@@ -13,3 +13,4 @@ Edge Computing Event-driven Architecture OAuth Predictive Analytics Database Per
 Testing Python Kafka Content Delivery Network UX Optimization Zero Downtime Deployment API
 Automation Quantum Computing Agile Success doesn’t just find you. You have to go out and get it. Performance Containerization
 DNS Routing Serverless Edge Computing Act as if what you do makes a difference. It does. Load Testing Security
+Python Logging Firewalls Data Science Serverless Innovation distinguishes between a leader and a follower. Pull Request Cache Invalidation Virtual Machines Code Review Framework The only way to do great work is to love what you do.

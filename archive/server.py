@@ -13,3 +13,4 @@ Predictive Analytics Code Review JWT Opportunities don't happen. You create them
 Kafka Blockchain Database Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great.
 Docker Logging Virtual Machines Code Review Don't be afraid to give up the good to go for the great. Event-driven Architecture
 NLP Backend Opportunities don't happen. You create them. UX Optimization JWT Firewalls Testing
+Do what you love and the money will follow. Docker Logging Data Science Blockchain Event Sourcing I find that the harder I work, the more luck I seem to have. Pull Request Version Control Content Delivery Network UX Optimization Neural Networks Big Data

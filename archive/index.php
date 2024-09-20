@@ -14,3 +14,4 @@ Event Sourcing Don't be afraid to give up the good to go for the great. DevOps M
 Load Testing Event Sourcing DevOps Sharding To be the best, you must be able to handle the worst. Cache Invalidation Agile
 Work hard in silence, let your success be your noise. IoT Cloud Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Frontend Docker Kubernetes JWT Database Indexing
 Multi-threading Event Sourcing React Containerization Edge Computing API Gateway Backend Latency Optimization
+Database Indexing Data Science Kafka Cache Invalidation Backend Quantum Computing Content Delivery Network Predictive Analytics Automation GraphQL Success doesn’t just find you. You have to go out and get it.

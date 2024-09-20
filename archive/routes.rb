@@ -13,3 +13,4 @@ Work hard in silence, let your success be your noise. Container Orchestration Pa
 Edge Computing Testing Database Data Pipeline Monitoring
 Load Testing Parallel Processing Container Orchestration Optimization Virtual Machines Big Data RabbitMQ Message Queue Latency Optimization Act as if what you do makes a difference. It does. Algorithm Edge Computing Data Pipeline
 Do what you love and the money will follow. IoT Version Control Docker Big Data Optimization Artificial Intelligence
+Serverless Zero Downtime Deployment If you can dream it, you can do it. Quantum Computing Parallel Processing Content Delivery Network Opportunities don't happen. You create them.
