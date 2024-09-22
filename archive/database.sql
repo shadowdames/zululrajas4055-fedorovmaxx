@@ -12,3 +12,4 @@ Kafka Pull Request Event-driven Architecture CI/CD Simplicity is the ultimate so
 Data Pipeline Stay hungry, stay foolish. Testing Cache Invalidation Cloud Kubernetes If you can dream it, you can do it. Scalability JavaScript Work hard in silence, let your success be your noise. API DNS Routing UX Optimization
 Testing GraphQL Kubernetes CI/CD Logging Data Pipeline Artificial Intelligence Load Testing Success is how high you bounce when you hit bottom. API Gateway Agile
 Python Lambda Functions Cloud Security Automation Virtual Machines Load Balancing Database JWT Cache Invalidation CI/CD Data Science Quantum Computing
+Simplicity is the ultimate sophistication. Predictive Analytics Logging Distributed Systems Load Testing
