@@ -12,3 +12,4 @@ Replica Set UX Optimization WebSockets Simplicity is the ultimate sophistication
 Predictive Analytics Code Review JWT Opportunities don't happen. You create them. Cloud OAuth Kubernetes RabbitMQ Success is how high you bounce when you hit bottom.
 Kafka Blockchain Database Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great.
 Docker Logging Virtual Machines Code Review Don't be afraid to give up the good to go for the great. Event-driven Architecture
+NLP Backend Opportunities don't happen. You create them. UX Optimization JWT Firewalls Testing
