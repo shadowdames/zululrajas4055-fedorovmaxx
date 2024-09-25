@@ -12,3 +12,4 @@ Deployment A/B Testing Success doesn’t just find you. You have to go out and get
 Edge Computing Event-driven Architecture OAuth Predictive Analytics Database Performance Optimization Message Queue Database Indexing React Sharding
 Testing Python Kafka Content Delivery Network UX Optimization Zero Downtime Deployment API
 Automation Quantum Computing Agile Success doesn’t just find you. You have to go out and get it. Performance Containerization
+DNS Routing Serverless Edge Computing Act as if what you do makes a difference. It does. Load Testing Security
