@@ -12,3 +12,4 @@ Work hard in silence, let your success be your noise. Distributed Systems Predic
 DevOps Python Cloud Opportunities don't happen. You create them. Distributed Systems Content Delivery Network Lambda Functions Artificial Intelligence Automation Containerization
 JavaScript Logging UX Optimization Latency Optimization Neural Networks The only way to do great work is to love what you do. Replica Set Microservices Kafka Zero Downtime Deployment DevOps Virtual Machines RabbitMQ API
 Neural Networks Zero Downtime Deployment Firewalls Sharding Success usually comes to those who are too busy to be looking for it. Docker Server Response Logging The only way to do great work is to love what you do. Quantum Computing NLP
+Parallel Processing Neural Networks Event Sourcing Load Balancing Great things never come from comfort zones. Content Delivery Network Container Orchestration Performance Agile
