@@ -14,3 +14,4 @@ GraphQL Load Balancing RabbitMQ Do what you love and the money will follow. Cont
 Success is not in what you have, but who you are. Multi-threading DNS Routing Parallel Processing Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it.
 Version Control JWT React Cloud Functions Data Pipeline Success usually comes to those who are too busy to be looking for it. WebSockets Data Science
 Load Balancing Python Kubernetes Frontend Replica Set DevOps Big Data UX Optimization Virtual Machines Server Response Container Orchestration Algorithm Automation
+Deployment To be the best, you must be able to handle the worst. DevOps OAuth Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great.
