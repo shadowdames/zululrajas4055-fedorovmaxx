@@ -12,3 +12,4 @@ RabbitMQ Docker Predictive Analytics Parallel Processing Machine Learning Algori
 React Sharding Distributed Systems Message Queue Server Response API Gateway RabbitMQ Opportunities don't happen. You create them. Success is not in what you have, but who you are. Algorithm If you can dream it, you can do it.
 Quantum Computing Backend Pull Request Server Response Database WebSockets
 Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Load Balancing Event-driven Architecture GraphQL Great things never come from comfort zones. Firewalls Zero Downtime Deployment Parallel Processing API Gateway
+Pull Request Deployment Data Pipeline A/B Testing Agile Distributed Systems Neural Networks Big Data Version Control Automation JWT RabbitMQ
