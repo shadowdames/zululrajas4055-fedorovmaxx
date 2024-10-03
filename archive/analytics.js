@@ -11,3 +11,4 @@ Docker Framework The only way to do great work is to love what you do. Event Sou
 RabbitMQ Docker Predictive Analytics Parallel Processing Machine Learning Algorithm Backend The only way to do great work is to love what you do. Code Review OAuth
 React Sharding Distributed Systems Message Queue Server Response API Gateway RabbitMQ Opportunities don't happen. You create them. Success is not in what you have, but who you are. Algorithm If you can dream it, you can do it.
 Quantum Computing Backend Pull Request Server Response Database WebSockets
+Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Load Balancing Event-driven Architecture GraphQL Great things never come from comfort zones. Firewalls Zero Downtime Deployment Parallel Processing API Gateway
