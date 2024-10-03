@@ -11,3 +11,4 @@ Neural Networks Docker Serverless Scalability API Gateway Testing UX Optimizatio
 Replica Set UX Optimization WebSockets Simplicity is the ultimate sophistication. Distributed Systems Frontend Neural Networks Automation Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Algorithm Scalability Firewalls Data Science
 Predictive Analytics Code Review JWT Opportunities don't happen. You create them. Cloud OAuth Kubernetes RabbitMQ Success is how high you bounce when you hit bottom.
 Kafka Blockchain Database Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great.
+Docker Logging Virtual Machines Code Review Don't be afraid to give up the good to go for the great. Event-driven Architecture
