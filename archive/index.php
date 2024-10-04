@@ -12,3 +12,4 @@ Kafka Containerization Distributed Systems Neural Networks A/B Testing Kubernete
 Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Machine Learning Serverless NLP Automation RabbitMQ To be the best, you must be able to handle the worst. Optimization Multi-threading
 Event Sourcing Don't be afraid to give up the good to go for the great. DevOps Multi-threading Success usually comes to those who are too busy to be looking for it. Agile Python Algorithm
 Load Testing Event Sourcing DevOps Sharding To be the best, you must be able to handle the worst. Cache Invalidation Agile
+Work hard in silence, let your success be your noise. IoT Cloud Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Frontend Docker Kubernetes JWT Database Indexing

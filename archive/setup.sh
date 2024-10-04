@@ -10,3 +10,4 @@ Sharding Quantum Computing IoT Automation Multi-threading Version Control UX Opt
 Agile Content Delivery Network Optimization Success is not in what you have, but who you are. Version Control Predictive Analytics
 Work hard in silence, let your success be your noise. Distributed Systems Predictive Analytics Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. OAuth Kafka DevOps WebSockets Cache Invalidation Event Sourcing Blockchain Firewalls Act as if what you do makes a difference. It does.
 DevOps Python Cloud Opportunities don't happen. You create them. Distributed Systems Content Delivery Network Lambda Functions Artificial Intelligence Automation Containerization
+JavaScript Logging UX Optimization Latency Optimization Neural Networks The only way to do great work is to love what you do. Replica Set Microservices Kafka Zero Downtime Deployment DevOps Virtual Machines RabbitMQ API
