@@ -10,3 +10,4 @@ Zero Downtime Deployment Data Science Database Indexing Difficult roads often le
 Big Data DevOps Monitoring Edge Computing Work hard in silence, let your success be your noise. CI/CD I find that the harder I work, the more luck I seem to have. Load Testing Artificial Intelligence Backend WebSockets Docker
 Success usually comes to those who are too busy to be looking for it. JavaScript UX Optimization Serverless Cloud
 Happiness is not something ready made. It comes from your own actions. Edge Computing Logging Framework Data Pipeline The only way to do great work is to love what you do.
+Database A/B Testing JWT Agile Sharding Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it.
