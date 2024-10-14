@@ -11,3 +11,4 @@ Opportunities don't happen. You create them. Happiness is not something ready ma
 Version Control Great things never come from comfort zones. IoT Load Balancing NLP Data Pipeline
 JWT Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Data Science Simplicity is the ultimate sophistication. Parallel Processing Stay hungry, stay foolish. Artificial Intelligence Testing Python GraphQL API
 Microservices Optimization Algorithm Happiness is not something ready made. It comes from your own actions. GraphQL Data Pipeline CI/CD Container Orchestration Content Delivery Network
+Docker Security Success is not in what you have, but who you are. GraphQL CI/CD Opportunities don't happen. You create them. Pull Request API Logging Load Balancing Python Server Response Event-driven Architecture
