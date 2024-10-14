@@ -8,3 +8,4 @@ UX Optimization Innovation distinguishes between a leader and a follower. NLP Ma
 Big Data Lambda Functions Microservices Artificial Intelligence A/B Testing CI/CD Security
 UX Optimization Monitoring Serverless Blockchain Success doesn’t just find you. You have to go out and get it. Cache Invalidation Docker Algorithm If you can dream it, you can do it. Latency Optimization
 Quantum Computing Happiness is not something ready made. It comes from your own actions. Scalability API RabbitMQ Kubernetes Don't be afraid to give up the good to go for the great. Frontend Firewalls
+Kafka Pull Request Event-driven Architecture CI/CD Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. API Gateway The only way to do great work is to love what you do. Big Data Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Docker Version Control Neural Networks
