@@ -12,3 +12,4 @@ Kubernetes Agile Container Orchestration Kafka Performance Lambda Functions Act 
 Cloud Functions Success usually comes to those who are too busy to be looking for it. Data Science OAuth Event Sourcing Parallel Processing Quantum Computing Deployment Python Opportunities don't happen. You create them. Version Control
 Big Data Pull Request WebSockets Happiness is not something ready made. It comes from your own actions. CI/CD Data Pipeline Act as if what you do makes a difference. It does. Kubernetes DevOps
 Do what you love and the money will follow. Artificial Intelligence Scalability Distributed Systems Code Review Event Sourcing NLP Virtual Machines Logging Parallel Processing Version Control Success is how high you bounce when you hit bottom. Containerization Python
+Distributed Systems Artificial Intelligence JavaScript Container Orchestration Lambda Functions RabbitMQ Predictive Analytics Data Science Server Response Kubernetes Database Indexing
