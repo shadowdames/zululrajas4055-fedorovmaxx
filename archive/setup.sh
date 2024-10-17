@@ -8,3 +8,4 @@ Backend Cloud Functions Big Data Success doesn’t just find you. You have to go o
 Parallel Processing Lambda Functions Cache Invalidation Frontend Blockchain React API Gateway
 Sharding Quantum Computing IoT Automation Multi-threading Version Control UX Optimization Cloud Optimization Testing Docker Container Orchestration
 Agile Content Delivery Network Optimization Success is not in what you have, but who you are. Version Control Predictive Analytics
+Work hard in silence, let your success be your noise. Distributed Systems Predictive Analytics Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. OAuth Kafka DevOps WebSockets Cache Invalidation Event Sourcing Blockchain Firewalls Act as if what you do makes a difference. It does.
