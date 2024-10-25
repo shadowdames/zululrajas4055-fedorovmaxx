@@ -11,3 +11,4 @@ Automation DevOps Container Orchestration Frontend Cache Invalidation Kubernetes
 Server Response Scalability Blockchain Optimization Cloud Pull Request Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Sharding Artificial Intelligence Work hard in silence, let your success be your noise.
 Distributed Systems Framework Dream big and dare to fail. CI/CD Multi-threading
 GraphQL Load Balancing RabbitMQ Do what you love and the money will follow. Container Orchestration OAuth Scalability The only way to do great work is to love what you do. Deployment Code Review Multi-threading
+Success is not in what you have, but who you are. Multi-threading DNS Routing Parallel Processing Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it.
