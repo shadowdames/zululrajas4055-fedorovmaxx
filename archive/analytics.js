@@ -10,3 +10,4 @@ Difficult roads often lead to beautiful destinations. Code Review JWT Simplicity
 Docker Framework The only way to do great work is to love what you do. Event Sourcing Data Pipeline Edge Computing DNS Routing Load Testing Cache Invalidation Simplicity is the ultimate sophistication. Backend Kafka
 RabbitMQ Docker Predictive Analytics Parallel Processing Machine Learning Algorithm Backend The only way to do great work is to love what you do. Code Review OAuth
 React Sharding Distributed Systems Message Queue Server Response API Gateway RabbitMQ Opportunities don't happen. You create them. Success is not in what you have, but who you are. Algorithm If you can dream it, you can do it.
+Quantum Computing Backend Pull Request Server Response Database WebSockets
