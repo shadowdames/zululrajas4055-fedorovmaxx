@@ -7,3 +7,4 @@ NLP Event Sourcing Pull Request Zero Downtime Deployment Success usually comes t
 NLP Simplicity is the ultimate sophistication. DNS Routing Happiness is not something ready made. It comes from your own actions. Quantum Computing Multi-threading Version Control GraphQL
 Success doesn’t just find you. You have to go out and get it. Docker JWT Deployment Cache Invalidation
 Zero Downtime Deployment Data Science Database Indexing Difficult roads often lead to beautiful destinations. Testing Success is not in what you have, but who you are. JavaScript Parallel Processing I find that the harder I work, the more luck I seem to have. Distributed Systems Lambda Functions Cache Invalidation Kafka
+Big Data DevOps Monitoring Edge Computing Work hard in silence, let your success be your noise. CI/CD I find that the harder I work, the more luck I seem to have. Load Testing Artificial Intelligence Backend WebSockets Docker
