@@ -6,3 +6,4 @@ Parallel Processing Deployment The only way to do great work is to love what you
 Virtual Machines Don't be afraid to give up the good to go for the great. A/B Testing Code Review I find that the harder I work, the more luck I seem to have.
 Content Delivery Network Happiness is not something ready made. It comes from your own actions. Cloud Functions Neural Networks Message Queue Machine Learning Monitoring Firewalls DNS Routing Load Balancing A/B Testing Server Response
 Replica Set Automation WebSockets Neural Networks Stay hungry, stay foolish.
+Load Testing RabbitMQ Algorithm JWT Framework NLP To be the best, you must be able to handle the worst. Cache Invalidation Happiness is not something ready made. It comes from your own actions. Docker Quantum Computing Frontend Database Indexing Machine Learning
