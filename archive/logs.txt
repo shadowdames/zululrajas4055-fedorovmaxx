@@ -9,3 +9,4 @@ Latency Optimization NLP Opportunities don't happen. You create them. Happiness 
 Big Data Code Review Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Parallel Processing Deployment
 Data Science Server Response Serverless Dream big and dare to fail. Cloud
 Monitoring Data Science Big Data Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Predictive Analytics
+OAuth Big Data Database Success is not in what you have, but who you are. Neural Networks CI/CD Security Simplicity is the ultimate sophistication. Predictive Analytics Database Indexing Stay hungry, stay foolish. Monitoring If you can dream it, you can do it. JWT
