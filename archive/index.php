@@ -9,3 +9,4 @@ OAuth Neural Networks Version Control Work hard in silence, let your success be 
 OAuth Logging Distributed Systems Security DevOps RabbitMQ
 The only way to do great work is to love what you do. JavaScript DevOps Scalability Data Pipeline NLP Do what you love and the money will follow. Machine Learning If you can dream it, you can do it.
 Kafka Containerization Distributed Systems Neural Networks A/B Testing Kubernetes
+Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Machine Learning Serverless NLP Automation RabbitMQ To be the best, you must be able to handle the worst. Optimization Multi-threading

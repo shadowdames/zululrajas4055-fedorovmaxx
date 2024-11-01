@@ -10,3 +10,4 @@ Docker WebSockets Edge Computing Stay hungry, stay foolish. Work hard in silence
 Work hard in silence, let your success be your noise. Python Algorithm Backend Database Indexing Success is how high you bounce when you hit bottom. Latency Optimization Success usually comes to those who are too busy to be looking for it. CI/CD Data Science Neural Networks I find that the harder I work, the more luck I seem to have.
 Deployment OAuth Firewalls Data Science Latency Optimization Success is not in what you have, but who you are. Version Control Data Pipeline Framework Serverless
 Work hard in silence, let your success be your noise. Container Orchestration Parallel Processing Serverless Kafka
+Edge Computing Testing Database Data Pipeline Monitoring
