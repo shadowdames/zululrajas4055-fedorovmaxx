@@ -7,3 +7,4 @@ Success usually comes to those who are too busy to be looking for it. DNS Routin
 Backend Cloud Functions Big Data Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Predictive Analytics Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. API GraphQL Cloud
 Parallel Processing Lambda Functions Cache Invalidation Frontend Blockchain React API Gateway
 Sharding Quantum Computing IoT Automation Multi-threading Version Control UX Optimization Cloud Optimization Testing Docker Container Orchestration
+Agile Content Delivery Network Optimization Success is not in what you have, but who you are. Version Control Predictive Analytics
