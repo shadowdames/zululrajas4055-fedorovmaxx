@@ -6,3 +6,4 @@ Testing Distributed Systems Message Queue Success is not in what you have, but w
 WebSockets Latency Optimization Monitoring Opportunities don't happen. You create them. Kafka DNS Routing Multi-threading Blockchain DevOps Frontend Success is not in what you have, but who you are. API
 Load Testing To be the best, you must be able to handle the worst. Data Pipeline Neural Networks Data Science Lambda Functions A/B Testing Edge Computing Event-driven Architecture Testing React If you can dream it, you can do it.
 UX Optimization Virtual Machines Success doesn’t just find you. You have to go out and get it. React Success is how high you bounce when you hit bottom.
+Framework Backend Algorithm A/B Testing Latency Optimization Success usually comes to those who are too busy to be looking for it. API DevOps
