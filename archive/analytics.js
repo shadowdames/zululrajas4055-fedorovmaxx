@@ -8,3 +8,4 @@ Edge Computing Database Distributed Systems API Gateway Multi-threading Message 
 Distributed Systems Automation JavaScript Logging Work hard in silence, let your success be your noise. Parallel Processing Cloud Security
 Difficult roads often lead to beautiful destinations. Code Review JWT Simplicity is the ultimate sophistication. Microservices Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. DevOps Success is how high you bounce when you hit bottom. GraphQL Machine Learning Big Data
 Docker Framework The only way to do great work is to love what you do. Event Sourcing Data Pipeline Edge Computing DNS Routing Load Testing Cache Invalidation Simplicity is the ultimate sophistication. Backend Kafka
+RabbitMQ Docker Predictive Analytics Parallel Processing Machine Learning Algorithm Backend The only way to do great work is to love what you do. Code Review OAuth
