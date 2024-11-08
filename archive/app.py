@@ -7,3 +7,4 @@ Success is how high you bounce when you hit bottom. Cache Invalidation Success u
 Automation Success doesn’t just find you. You have to go out and get it. DevOps Optimization Lambda Functions Cloud Big Data
 Testing Simplicity is the ultimate sophistication. Algorithm Kubernetes UX Optimization Parallel Processing DevOps If you can dream it, you can do it.
 Sharding JWT Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Virtual Machines Don't be afraid to give up the good to go for the great. JavaScript Success doesn’t just find you. You have to go out and get it. Performance
+Parallel Processing Deployment Success is how high you bounce when you hit bottom. Containerization Microservices Docker CI/CD Opportunities don't happen. You create them. Sharding Pull Request Artificial Intelligence IoT Cloud Lambda Functions Code Review
