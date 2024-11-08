@@ -8,3 +8,4 @@ Backend Serverless Success is how high you bounce when you hit bottom. Act as if
 OAuth Neural Networks Version Control Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Lambda Functions The only way to do great work is to love what you do. Scalability Algorithm
 OAuth Logging Distributed Systems Security DevOps RabbitMQ
 The only way to do great work is to love what you do. JavaScript DevOps Scalability Data Pipeline NLP Do what you love and the money will follow. Machine Learning If you can dream it, you can do it.
+Kafka Containerization Distributed Systems Neural Networks A/B Testing Kubernetes
