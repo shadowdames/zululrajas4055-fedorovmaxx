@@ -14,3 +14,4 @@ Algorithm I find that the harder I work, the more luck I seem to have. Do what y
 UX Optimization Backend Great things never come from comfort zones. Dream big and dare to fail. Replica Set Docker I find that the harder I work, the more luck I seem to have.
 Automation Great things never come from comfort zones. Work hard in silence, let your success be your noise. React CI/CD WebSockets Load Balancing
 JWT Agile Serverless API Docker React Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Python Neural Networks UX Optimization Security
+Load Balancing Code Review CI/CD Opportunities don't happen. You create them. Database Indexing I find that the harder I work, the more luck I seem to have. GraphQL Innovation distinguishes between a leader and a follower. Automation Serverless Security Cloud Event Sourcing
