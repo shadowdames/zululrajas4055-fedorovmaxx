@@ -13,3 +13,4 @@ UX Optimization React Algorithm Quantum Computing JavaScript
 Algorithm I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Latency Optimization
 UX Optimization Backend Great things never come from comfort zones. Dream big and dare to fail. Replica Set Docker I find that the harder I work, the more luck I seem to have.
 Automation Great things never come from comfort zones. Work hard in silence, let your success be your noise. React CI/CD WebSockets Load Balancing
+JWT Agile Serverless API Docker React Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Python Neural Networks UX Optimization Security

@@ -5,3 +5,4 @@ Server Response WebSockets Quantum Computing Database Indexing Automation Cloud 
 OAuth Algorithm Difficult roads often lead to beautiful destinations. Frontend Version Control A/B Testing
 Monitoring Framework Security Kubernetes IoT Opportunities don't happen. You create them. JavaScript Neural Networks Success is not in what you have, but who you are.
 UX Optimization Innovation distinguishes between a leader and a follower. NLP Machine Learning Content Delivery Network Difficult roads often lead to beautiful destinations. Virtual Machines Agile Python Act as if what you do makes a difference. It does. JavaScript Microservices Happiness is not something ready made. It comes from your own actions.
+Big Data Lambda Functions Microservices Artificial Intelligence A/B Testing CI/CD Security
