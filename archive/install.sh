@@ -11,3 +11,4 @@ WebSockets Don't be afraid to give up the good to go for the great. Quantum Comp
 Stay hungry, stay foolish. Distributed Systems Machine Learning Server Response API Gateway If you can dream it, you can do it. DevOps Algorithm Sharding JavaScript Firewalls I find that the harder I work, the more luck I seem to have. Python Latency Optimization
 UX Optimization React Algorithm Quantum Computing JavaScript
 Algorithm I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Latency Optimization
+UX Optimization Backend Great things never come from comfort zones. Dream big and dare to fail. Replica Set Docker I find that the harder I work, the more luck I seem to have.
