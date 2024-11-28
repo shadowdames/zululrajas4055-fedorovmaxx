@@ -6,3 +6,4 @@ Neural Networks A/B Testing Kubernetes NLP Backend Virtual Machines Data Science
 Security Lambda Functions IoT Success doesn’t just find you. You have to go out and get it. React Multi-threading Kafka Agile Distributed Systems Event-driven Architecture Server Response
 Edge Computing Database Distributed Systems API Gateway Multi-threading Message Queue Great things never come from comfort zones. Quantum Computing
 Distributed Systems Automation JavaScript Logging Work hard in silence, let your success be your noise. Parallel Processing Cloud Security
+Difficult roads often lead to beautiful destinations. Code Review JWT Simplicity is the ultimate sophistication. Microservices Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. DevOps Success is how high you bounce when you hit bottom. GraphQL Machine Learning Big Data

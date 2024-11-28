@@ -9,3 +9,4 @@ Artificial Intelligence Replica Set Success is not in what you have, but who you
 GraphQL Opportunities don't happen. You create them. Containerization Zero Downtime Deployment API Gateway
 Performance OAuth Docker Neural Networks Difficult roads often lead to beautiful destinations. Edge Computing Message Queue Lambda Functions Do what you love and the money will follow.
 Kubernetes Agile Container Orchestration Kafka Performance Lambda Functions Act as if what you do makes a difference. It does. The only way to do great work is to love what you do.
+Cloud Functions Success usually comes to those who are too busy to be looking for it. Data Science OAuth Event Sourcing Parallel Processing Quantum Computing Deployment Python Opportunities don't happen. You create them. Version Control
