@@ -8,3 +8,4 @@ Distributed Systems Cloud Big Data Deployment A/B Testing Agile Edge Computing Q
 Artificial Intelligence Replica Set Success is not in what you have, but who you are. Containerization JWT Blockchain
 GraphQL Opportunities don't happen. You create them. Containerization Zero Downtime Deployment API Gateway
 Performance OAuth Docker Neural Networks Difficult roads often lead to beautiful destinations. Edge Computing Message Queue Lambda Functions Do what you love and the money will follow.
+Kubernetes Agile Container Orchestration Kafka Performance Lambda Functions Act as if what you do makes a difference. It does. The only way to do great work is to love what you do.
