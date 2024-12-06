@@ -5,3 +5,4 @@ Virtual Machines Database JavaScript Event-driven Architecture Success is not in
 OAuth Container Orchestration Distributed Systems Automation Pull Request Success doesn’t just find you. You have to go out and get it. API Machine Learning Algorithm Cloud I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Load Testing Load Balancing
 Security Optimization Testing UX Optimization Work hard in silence, let your success be your noise.
 Frontend Replica Set Innovation distinguishes between a leader and a follower. Database API Serverless Container Orchestration Success usually comes to those who are too busy to be looking for it. Algorithm IoT
+CI/CD Edge Computing To be the best, you must be able to handle the worst. Data Pipeline The only way to do great work is to love what you do. Container Orchestration Containerization Neural Networks Server Response
