@@ -4,3 +4,4 @@ NLP Opportunities don't happen. You create them. JavaScript Cloud Functions Micr
 Content Delivery Network Pull Request Opportunities don't happen. You create them. Algorithm Performance Code Review
 Cloud Functions Scalability Message Queue JavaScript Serverless Machine Learning Dream big and dare to fail. IoT Data Pipeline Parallel Processing UX Optimization Innovation distinguishes between a leader and a follower.
 Kafka Event-driven Architecture Database Indexing Code Review WebSockets Version Control Virtual Machines Innovation distinguishes between a leader and a follower. Monitoring
+API Gateway Virtual Machines Optimization Quantum Computing JWT Cloud
