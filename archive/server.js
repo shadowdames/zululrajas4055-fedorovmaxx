@@ -7,3 +7,4 @@ Kafka Cloud Stay hungry, stay foolish. Load Testing To be the best, you must be 
 Distributed Systems Cloud Big Data Deployment A/B Testing Agile Edge Computing Quantum Computing Database Indexing Lambda Functions IoT Success is how high you bounce when you hit bottom.
 Artificial Intelligence Replica Set Success is not in what you have, but who you are. Containerization JWT Blockchain
 GraphQL Opportunities don't happen. You create them. Containerization Zero Downtime Deployment API Gateway
+Performance OAuth Docker Neural Networks Difficult roads often lead to beautiful destinations. Edge Computing Message Queue Lambda Functions Do what you love and the money will follow.
