@@ -8,3 +8,4 @@ Data Pipeline Python JavaScript The only way to do great work is to love what yo
 Predictive Analytics Cloud Data Pipeline GraphQL Event Sourcing Quantum Computing
 Big Data Kubernetes Agile Zero Downtime Deployment Message Queue
 WebSockets Don't be afraid to give up the good to go for the great. Quantum Computing A/B Testing Virtual Machines
+Stay hungry, stay foolish. Distributed Systems Machine Learning Server Response API Gateway If you can dream it, you can do it. DevOps Algorithm Sharding JavaScript Firewalls I find that the harder I work, the more luck I seem to have. Python Latency Optimization
