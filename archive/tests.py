@@ -6,3 +6,4 @@ Lambda Functions OAuth Edge Computing Automation Logging Agile CI/CD Innovation 
 Serverless Performance Docker JavaScript Pull Request Artificial Intelligence
 Pull Request Microservices Docker I find that the harder I work, the more luck I seem to have. Cloud Data Pipeline API Backend
 Dream big and dare to fail. JavaScript Framework GraphQL Replica Set
+Agile Opportunities don't happen. You create them. Optimization Neural Networks Sharding Testing Pull Request CI/CD Kafka Docker Version Control Success is how high you bounce when you hit bottom.

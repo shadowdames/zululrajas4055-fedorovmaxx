@@ -6,3 +6,4 @@ Machine Learning Version Control Happiness is not something ready made. It comes
 Microservices Dream big and dare to fail. Load Balancing UX Optimization Success is how high you bounce when you hit bottom. Python Multi-threading Blockchain API Gateway Code Review Neural Networks Distributed Systems
 Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Docker React Blockchain
 Don't be afraid to give up the good to go for the great. Cloud Great things never come from comfort zones. Security Code Review Backend Container Orchestration GraphQL Happiness is not something ready made. It comes from your own actions. JavaScript
+Stay hungry, stay foolish. Serverless Algorithm Agile Parallel Processing Server Response Testing Data Science Multi-threading

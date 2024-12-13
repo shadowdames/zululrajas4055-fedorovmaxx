@@ -8,3 +8,4 @@ Difficult roads often lead to beautiful destinations. Machine Learning Success u
 API The only way to do great work is to love what you do. Cache Invalidation Version Control Kubernetes Content Delivery Network Opportunities don't happen. You create them. Virtual Machines Pull Request
 Docker WebSockets Edge Computing Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Deployment DevOps Database Neural Networks
 Work hard in silence, let your success be your noise. Python Algorithm Backend Database Indexing Success is how high you bounce when you hit bottom. Latency Optimization Success usually comes to those who are too busy to be looking for it. CI/CD Data Science Neural Networks I find that the harder I work, the more luck I seem to have.
+Deployment OAuth Firewalls Data Science Latency Optimization Success is not in what you have, but who you are. Version Control Data Pipeline Framework Serverless
