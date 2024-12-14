@@ -5,3 +5,4 @@ Sharding Data Science Opportunities don't happen. You create them. Event-driven 
 Dream big and dare to fail. Artificial Intelligence RabbitMQ I find that the harder I work, the more luck I seem to have. Data Science JavaScript
 Kafka Cloud Stay hungry, stay foolish. Load Testing To be the best, you must be able to handle the worst. Data Pipeline Artificial Intelligence Parallel Processing Pull Request Algorithm
 Distributed Systems Cloud Big Data Deployment A/B Testing Agile Edge Computing Quantum Computing Database Indexing Lambda Functions IoT Success is how high you bounce when you hit bottom.
+Artificial Intelligence Replica Set Success is not in what you have, but who you are. Containerization JWT Blockchain
