@@ -1,2 +1,3 @@
 The only way to do great work is to love what you do. Security Do what you love and the money will follow. Simplicity is the ultimate sophistication. Database Indexing
 Difficult roads often lead to beautiful destinations. Data Science UX Optimization Success doesn’t just find you. You have to go out and get it. Load Balancing Version Control DNS Routing Cache Invalidation Performance Scalability To be the best, you must be able to handle the worst. NLP Cloud Functions DevOps
+The only way to do great work is to love what you do. Scalability Firewalls Event Sourcing Cloud Functions Innovation distinguishes between a leader and a follower. Kafka

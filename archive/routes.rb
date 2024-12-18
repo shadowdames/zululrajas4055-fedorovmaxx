@@ -6,3 +6,4 @@ Don't be afraid to give up the good to go for the great. Big Data Work hard in s
 Happiness is not something ready made. It comes from your own actions. Frontend Backend Virtual Machines Docker If you can dream it, you can do it. Work hard in silence, let your success be your noise. API Gateway WebSockets
 Difficult roads often lead to beautiful destinations. Machine Learning Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Parallel Processing Logging CI/CD
 API The only way to do great work is to love what you do. Cache Invalidation Version Control Kubernetes Content Delivery Network Opportunities don't happen. You create them. Virtual Machines Pull Request
+Docker WebSockets Edge Computing Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Deployment DevOps Database Neural Networks
