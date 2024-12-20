@@ -6,3 +6,4 @@ API Act as if what you do makes a difference. It does. Success is not in what yo
 Kafka The only way to do great work is to love what you do. Firewalls Blockchain Testing React Artificial Intelligence Database Indexing Cache Invalidation Agile Edge Computing Logging Backend
 Data Pipeline Python JavaScript The only way to do great work is to love what you do. WebSockets Frontend Pull Request Distributed Systems Agile
 Predictive Analytics Cloud Data Pipeline GraphQL Event Sourcing Quantum Computing
+Big Data Kubernetes Agile Zero Downtime Deployment Message Queue
