@@ -3,3 +3,4 @@ Virtual Machines Simplicity is the ultimate sophistication. Innovation distingui
 Performance Database Indexing Version Control Don't be afraid to give up the good to go for the great. IoT The only way to do great work is to love what you do. Distributed Systems Do what you love and the money will follow. Machine Learning
 Microservices React Data Science Machine Learning Neural Networks Database Indexing Do what you love and the money will follow. Algorithm Lambda Functions Success is not in what you have, but who you are. Database Container Orchestration
 Lambda Functions OAuth Edge Computing Automation Logging Agile CI/CD Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Multi-threading Kafka Distributed Systems Predictive Analytics
+Serverless Performance Docker JavaScript Pull Request Artificial Intelligence
