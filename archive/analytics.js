@@ -4,3 +4,4 @@ The only way to do great work is to love what you do. Testing Cache Invalidation
 Logging Parallel Processing NLP Algorithm Pull Request
 Neural Networks A/B Testing Kubernetes NLP Backend Virtual Machines Data Science Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Event Sourcing React Database Indexing JavaScript
 Security Lambda Functions IoT Success doesn’t just find you. You have to go out and get it. React Multi-threading Kafka Agile Distributed Systems Event-driven Architecture Server Response
+Edge Computing Database Distributed Systems API Gateway Multi-threading Message Queue Great things never come from comfort zones. Quantum Computing
