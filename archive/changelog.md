@@ -3,3 +3,4 @@ UX Optimization Success usually comes to those who are too busy to be looking fo
 CI/CD Work hard in silence, let your success be your noise. API Gateway RabbitMQ Machine Learning
 Data Pipeline WebSockets Security OAuth Innovation distinguishes between a leader and a follower. Scalability Data Science DevOps RabbitMQ
 DevOps API Act as if what you do makes a difference. It does. Logging Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Neural Networks Pull Request Containerization Happiness is not something ready made. It comes from your own actions. Backend Cloud Database Indexing
+Monitoring Containerization Zero Downtime Deployment Quantum Computing Frontend Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Serverless Big Data DevOps Cache Invalidation CI/CD
