@@ -3,3 +3,4 @@ Server Response To be the best, you must be able to handle the worst. Latency Op
 Monitoring RabbitMQ Microservices WebSockets Blockchain Parallel Processing I find that the harder I work, the more luck I seem to have. Framework Success is not in what you have, but who you are. Optimization
 Success is how high you bounce when you hit bottom. Multi-threading Virtual Machines Sharding Containerization
 Testing Distributed Systems Message Queue Success is not in what you have, but who you are. JavaScript Big Data Frontend If you can dream it, you can do it. Database Indexing Serverless Load Testing API
+WebSockets Latency Optimization Monitoring Opportunities don't happen. You create them. Kafka DNS Routing Multi-threading Blockchain DevOps Frontend Success is not in what you have, but who you are. API
