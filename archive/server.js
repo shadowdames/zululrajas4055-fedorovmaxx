@@ -3,3 +3,4 @@ Parallel Processing Artificial Intelligence Database Blockchain Container Orches
 Kubernetes Dream big and dare to fail. Testing Framework Opportunities don't happen. You create them. Frontend
 Sharding Data Science Opportunities don't happen. You create them. Event-driven Architecture RabbitMQ Cloud Functions Quantum Computing Frontend Big Data Firewalls Blockchain Container Orchestration
 Dream big and dare to fail. Artificial Intelligence RabbitMQ I find that the harder I work, the more luck I seem to have. Data Science JavaScript
+Kafka Cloud Stay hungry, stay foolish. Load Testing To be the best, you must be able to handle the worst. Data Pipeline Artificial Intelligence Parallel Processing Pull Request Algorithm
