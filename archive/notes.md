@@ -2,3 +2,4 @@ Quantum Computing Virtual Machines Artificial Intelligence Microservices Dream b
 RabbitMQ Performance Database Dream big and dare to fail. Work hard in silence, let your success be your noise. Logging Don't be afraid to give up the good to go for the great. Automation Docker
 Great things never come from comfort zones. CI/CD Multi-threading To be the best, you must be able to handle the worst. Frontend I find that the harder I work, the more luck I seem to have. Data Science Event-driven Architecture Opportunities don't happen. You create them. Virtual Machines Logging GraphQL Data Pipeline
 Scalability Artificial Intelligence Python Event Sourcing Data Science Monitoring Success is not in what you have, but who you are. Firewalls A/B Testing Frontend Success is how high you bounce when you hit bottom. Cache Invalidation Version Control Optimization
+Cloud Multi-threading Message Queue Data Pipeline Container Orchestration RabbitMQ
