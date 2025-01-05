@@ -2,3 +2,4 @@ Database Indexing Security Innovation distinguishes between a leader and a follo
 Cloud NLP Load Balancing OAuth Lambda Functions Edge Computing Load Testing
 Data Science Success is how high you bounce when you hit bottom. DevOps Frontend Predictive Analytics Data Pipeline Backend Performance Kubernetes Multi-threading Sharding API Gateway
 Latency Optimization If you can dream it, you can do it. Virtual Machines Edge Computing JavaScript Content Delivery Network
+Big Data NLP To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Microservices CI/CD Monitoring Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. JavaScript GraphQL Data Science
