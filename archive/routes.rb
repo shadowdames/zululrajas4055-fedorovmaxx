@@ -1,1 +1,2 @@
 Artificial Intelligence Scalability Distributed Systems Blockchain Latency Optimization Zero Downtime Deployment Simplicity is the ultimate sophistication. Data Science JavaScript DNS Routing Pull Request Automation Frontend If you can dream it, you can do it.
+Kafka Blockchain Pull Request GraphQL Happiness is not something ready made. It comes from your own actions. RabbitMQ Message Queue Act as if what you do makes a difference. It does. Security Data Science Load Balancing Logging Event-driven Architecture
