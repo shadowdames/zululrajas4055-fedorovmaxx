@@ -1,1 +1,2 @@
 CI/CD Act as if what you do makes a difference. It does. Load Testing Zero Downtime Deployment Code Review Deployment Version Control Machine Learning Cache Invalidation
+Stay hungry, stay foolish. Logging Data Science Replica Set A/B Testing Happiness is not something ready made. It comes from your own actions.
