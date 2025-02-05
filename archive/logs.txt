@@ -1,0 +1,1 @@
+CI/CD Act as if what you do makes a difference. It does. Load Testing Zero Downtime Deployment Code Review Deployment Version Control Machine Learning Cache Invalidation
